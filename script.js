@@ -1,5 +1,5 @@
 document.getElementById("foot01").innerHTML =
-"<img src='images/stanlink.jpg' style='width:50px; height:50px; margin-top:20px; border-radius:25px;'><p>&copy;  " + new Date().getFullYear() + " StaNLink Dev Team. All rights reserved.</p>";
+"<img src='stanlink.jpg' style='width:50px; height:50px; margin-top:20px; border-radius:25px;'><p>&copy;  " + new Date().getFullYear() + " StaNLink Dev Team. All rights reserved.</p>";
 
 document.getElementById("nav01").innerHTML =
 "<ul id='menu'>" +
