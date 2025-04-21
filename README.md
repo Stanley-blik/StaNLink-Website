@@ -1,4 +1,4 @@
-<a><img src='stanlink.jpg'/></a>
+<a><img src='stanlink.jpg' height='300px' width='100%'/></a>
 <h1 align="center">Eng Stanley-C.E.O,StaNLink Dev Team</h1>
 
  
